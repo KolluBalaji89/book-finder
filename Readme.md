@@ -55,5 +55,5 @@ With ChatGPT’s guidance, I successfully:
 
 - 🔗 GitHub: [https://github.com/KolluBalaji89/book-finder](https://github.com/KolluBalaji89/book-finder)
 - 🔗 CodeSandbox: [https://codesandbox.io/p/sandbox/book-finder-dqdchf](https://codesandbox.io/p/sandbox/book-finder-dqdchf)
-- 📎 This file: [https://github.com/KolluBalaji89/book-finder/blob/main/README.md](https://github.com/KolluBalaji89/book-finder/blob/main/README.md)
+
 
