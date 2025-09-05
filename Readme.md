@@ -10,6 +10,8 @@ A simple and responsive **Book Finder** web app built using **React** and the **
 
 - 💻 **GitHub Repository**: [https://github.com/KolluBalaji89/book-finder](https://github.com/KolluBalaji89/book-finder)
 
+🗂️ **ChatGPT Conversation Log**: [View Chat PDF](https://your-upload-link.com)
+
 ---
 
 ## 🚀 Features
@@ -55,5 +57,6 @@ With ChatGPT’s guidance, I successfully:
 
 - 🔗 GitHub: [https://github.com/KolluBalaji89/book-finder](https://github.com/KolluBalaji89/book-finder)
 - 🔗 CodeSandbox: [https://codesandbox.io/p/sandbox/book-finder-dqdchf](https://codesandbox.io/p/sandbox/book-finder-dqdchf)
+
 
 
