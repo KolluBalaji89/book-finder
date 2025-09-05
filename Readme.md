@@ -1,3 +1,4 @@
+
 # 📚 Book Finder
 
 A simple and user-friendly web application that allows users to search for books using the Open Library Search API. Designed to help users quickly find book information like title, author, cover, publisher, and publish year.
